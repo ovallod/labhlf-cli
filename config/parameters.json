@@ -1,8 +1,6 @@
 {
-    "user" : "",
-    "chaincodeId" : "",
-    "transactionName": "",
-    "transactionArgs" : "",
-    "queryName": "",
-    "queryArgs": ""
+    "user" : "admin",
+    "chaincodeId" : "labhlf-as-sc",
+    "transactionName": "OrderShipment",
+    "transactionArgs" : "{\"packageID\":\"P1\",\"description\":\"Package for product P001\",\"destination\": \"Montpellier, FRANCE, 34006\"}"
 }
