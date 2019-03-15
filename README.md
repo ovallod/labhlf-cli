@@ -10,6 +10,3 @@ git clone the repository and cd into the folder
 then
 npm install
 ```
------
-## AA
-
